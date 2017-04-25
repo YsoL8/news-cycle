@@ -1,0 +1,22 @@
+{
+  "name": "news-cycle",
+  "version": "1.0.0",
+  "description": "Learning project. Will pull in news articles live",
+  "main": "index.js",
+  "scripts": {
+    "test": "what"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YsoL8/news-cycle.git"
+  },
+  "author": "Oliver Nourish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YsoL8/news-cycle/issues"
+  },
+  "homepage": "https://github.com/YsoL8/news-cycle#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
